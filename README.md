@@ -1,32 +1,30 @@
-# Projeto com README
-Um projeto de teste com um arquivo README 🦊
+<h1 align="center">Projeto com README</h1>
 
-[<img src="./Tela.gif" alt="gif da tela inicial do projeto xyz">](https://google.com)
+Um projeto de teste com um arquivo README, com instruções e gifs demonstrativos.
+
+   <img src="./assets/Tela.gif" alt="gif da tela inicial do projeto xyz" title="Imagens de raposa">
 
 ## Tecnologias utilizadas
 - HTML
 
 ## Como fazer você também
 
-1- Criar um novo repositório no Github
+1. Criar um novo repositório no Github
 
-<img src="criar-repositorio.gif" alt="como criar reposótio">
+   <img src="./assets/criar-repositorio.gif" alt="como criar repositório" title="criando o repositório">
 
-2- Adicionar um arquivo README.md 
+2. Adicionar um arquivo `README.md` 
 
-<img src="add-readme.gif" alt ="criando README.md">
-
+   <img src="./assets/add-readme.gif" alt ="criando README.md" title="adicionando o README">
 
 ## Após, clonar o repositório
 
+3. Usar **git clone**
 
-3- git clone
+   <img src="./assets/git-clone.gif" alt="clonando repositório" title="Clonagem">
 
-<img src="./git-clone.gif" alt="clonando repositório">
+4. Abrir com VS Code
 
-4- Abrir com VS Code
-
-<img src="./abrir-vscode.gif">
-
+   <img src="./assets/abrir-vscode.gif" alt="Abrindo VS Code" title="Abrindo VS Code">
 
 ## Agora é só editar como desejar!!!
